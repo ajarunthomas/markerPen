@@ -16,7 +16,7 @@ www.ajarunthomas.com
 <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 <script type="text/javascript" src="js/markerPen.js"></script>
 ```
-###Step 2 : Initialize jQuery
+###Step 2 : Initialize Plugin
 ```
 $(document).ready(function() {
     $.markerPen();
