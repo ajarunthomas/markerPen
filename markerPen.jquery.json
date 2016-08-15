@@ -1,7 +1,25 @@
 {
   "name": "markerPen",
-  "version": "1.0.0",
+  "version": "v1.0.1",
   "title": "markerPen",
   "author": "Arun Thomas",
-  "description": "Include a marker pen for your webpage"
+  "keywords": [
+        "markerPen",
+        "marker",
+        "pen",
+        "highlight"
+  ],
+  "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/ajarunthomas/markerPen/blob/master/LICENSE"
+        }
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "description": "Include a marker pen for your webpage",
+  "homepage": "http://www.ajarunthomas.com/jquery/markerPen",
+  "docs": "http://www.ajarunthomas.com/jquery/markerPen/docs.html",
+  "download": "http://www.ajarunthomas.com/jquery/markerPen/js/ajSlider.js"
 }
