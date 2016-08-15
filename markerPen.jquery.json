@@ -2,7 +2,11 @@
   "name": "markerPen",
   "version": "v1.0.1",
   "title": "markerPen",
-  "author": "Arun Thomas",
+  "author": {
+		    "name" : "Arun Thomas",
+        "email" : "ajarunthomas@gmail.com",
+        "url" : "http://ajarunthomas.com"
+		},
   "keywords": [
         "markerPen",
         "marker",
