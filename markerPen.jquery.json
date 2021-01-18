@@ -6,7 +6,7 @@
 	"name" : "Arun Thomas",
         "email" : "ajarunthomas@gmail.com",
         "url" : "http://ajarunthomas.com"
-		},
+  },
   "keywords": [
         "markerPen",
         "marker",
@@ -25,5 +25,6 @@
   "description": "Include a marker pen for your webpage",
   "homepage": "http://www.ajarunthomas.com/jquery/markerPen",
   "docs": "http://www.ajarunthomas.com/jquery/markerPen/docs.html",
-  "download": "http://www.ajarunthomas.com/jquery/markerPen/js/ajSlider.js"
+  "download": "http://www.ajarunthomas.com/files/markerPen.js",
+  "demo": "http://www.ajarunthomas.com/jquery/markerPen/demo"
 }
